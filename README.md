@@ -2,7 +2,7 @@
 
 My Name is Xaver\
 I'm from Germany, 15 Years old\
-I like C++ and Python, but i also use PHP\
+I like C++ and Python, but i also use PHP
 
 #### Projekts
 My current Projekts are:
@@ -12,7 +12,7 @@ My current Projekts are:
 
 #### Websites
 My Webseite: https://benn1x.daskju.com \
-The Blog of me and my Parthner: https://blog.daskju.com 
+The Blog of me and my Partner: https://blog.daskju.com 
 
 #### Where can you reach me?
 E-Mail: benn1x@daskju.com \
