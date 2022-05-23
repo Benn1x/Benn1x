@@ -10,7 +10,11 @@ My current Projekts are:
   - dasKju
 
 My Webseite: https://benn1x.daskju.com \
-The Blog of me and my Parthner: https://blog.daskju.com
+The Blog of me and my Parthner: https://blog.daskju.com 
+
+#### Where can you reach me?
+E-Mail: benn1x@daskju.com \
+Matrix: https://matrix.to/#/#daskju-projects:matrix.org 
 <!--
 **Benn1x/Benn1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
