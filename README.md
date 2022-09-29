@@ -2,6 +2,7 @@
 
 My Name is Xaver\
 I'm from Germany, 15 Years old\
+And studying cs at the TUM\
 I like Rust, C++ and Python, but i also use PHP
 
 #### Projekts
