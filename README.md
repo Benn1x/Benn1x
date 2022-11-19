@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My Name is Xaver\
-I'm from Germany, 15 Years old\
-And studying cs at the TUM\
+I'm from Germany\
+And currently studying cs at the TUM\
 I like Rust, C++ and Python
 
 #### Projekts
